@@ -1,6 +1,3 @@
-/* ============================================
-   RESET GLOBAL
-   ============================================ */
 * {
     margin: 0;
     padding: 0;
@@ -8,9 +5,7 @@
     font-family: 'Poppins', sans-serif;
 }
 
-/* ============================================
-   HEADER E SEUS COMPONENTES
-   ============================================ */
+
 header {
     margin: 79px 0px 47px 161px;
 }
@@ -38,9 +33,7 @@ header {
     cursor: pointer;
 }
 
-/* ============================================
-   IMAGEM
-   ============================================ */
+
 .logo-image {
     width: 595px;
     height: 500px;
@@ -48,9 +41,7 @@ header {
     display: inline-block;
 }
 
-/* ============================================
-   MAIN - CONTEÚDO PRINCIPAL
-   ============================================ */
+
 section {
     display: inline-block;
 }
@@ -83,15 +74,16 @@ p {
     color: #6FBF44;
     margin-top: 50px;
 }
+
 @media screen and (max-width: 500px) {
     .logo-image {
         width: 312px;
-        height: auto;        
+        height: auto;
         position: fixed;
-        bottom:20px;
-        left:0;
-        right:0;
-        margin: auto;     
+        bottom: 20px;
+        left: 0;
+        right: 0;
+        margin: auto;
 
     }
 
@@ -122,6 +114,7 @@ p {
         text-align: center;
         margin: 20px auto;
     }
+
     .link-section {
         text-align: center;
         display: block;
