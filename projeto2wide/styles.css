@@ -5,7 +5,6 @@
     font-family: 'Poppins', sans-serif;
 }
 
-
 header {
     margin: 79px 0px 47px 161px;
 }
@@ -33,14 +32,12 @@ header {
     cursor: pointer;
 }
 
-
 .logo-image {
     width: 595px;
     height: 500px;
     margin-left: 121px;
     display: inline-block;
 }
-
 
 section {
     display: inline-block;
@@ -84,7 +81,6 @@ p {
         left: 0;
         right: 0;
         margin: auto;
-
     }
 
     header {
