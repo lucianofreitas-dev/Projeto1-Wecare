@@ -67,7 +67,9 @@ button {
     margin-top: 10px;
     margin-left: auto;
     font-size: 0;
-}
+    opacity: 0.8;
+    
+    }
 
 .microfone {
     width: 50px;
@@ -79,6 +81,7 @@ button {
     cursor: pointer;
     margin-top: 10px;
     font-size: 0;
+    opacity: 0.8;
 
 }
 
